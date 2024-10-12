@@ -39,16 +39,15 @@
 ### Colormap Theme
 1. Download the `Catppuccin (Categorical).json` file from `\themes`
 2. Add this file to `/usr/share/labplot2/colormaps/` 
-3. Update `ColormapCollections.json` with 
+3. Update the end of `ColormapCollections.json` with: 
 ``` json
-{
+,{
 	"name" : "Catppuccin (Categorical)",
 	"description": "These color maps are not scientific in any way and are only meant for categorical highlighting to match the Catppuccin worksheet and application themes.",
 	"url" : "https://github.com/catppuccin/labplot"
 }
-
 ```
-(make sure you follow regular `json` rules, such as adding a `,` to the end of the entry above this)
+Note: Currently, these changes may be overwritten when LabPlot updates, however we are hoping to be able to merge these changes into LabPlot so that Catppuccin is installed by default!
 
 
 1. Download the flavor of your choice.
