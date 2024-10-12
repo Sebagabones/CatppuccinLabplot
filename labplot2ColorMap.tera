@@ -1,0 +1,26 @@
+---
+whiskers:
+    version: "2.5.0"
+    matrix:
+        - flavor
+    filename: "themes/catppuccin-colormap.json"
+app: "LabPlot2"
+author: "Sebagabones"
+---
+{
+{% for _, flavor in flavors -%}
+"{{flavor.identifier}}" : [
+"{{flavor.colors.rosewater.rgb.r}}, {{flavor.colors.rosewater.rgb.g}}, {{flavor.colors.rosewater.rgb.b}}",
+"{{flavor.colors.pink.rgb.r}}, {{flavor.colors.pink.rgb.g}}, {{flavor.colors.pink.rgb.b}}",
+"{{flavor.colors.mauve.rgb.r}}, {{flavor.colors.mauve.rgb.g}}, {{flavor.colors.mauve.rgb.b}}",
+"{{flavor.colors.red.rgb.r}}, {{flavor.colors.red.rgb.g}}, {{flavor.colors.red.rgb.b}}",
+"{{flavor.colors.peach.rgb.r}}, {{flavor.colors.peach.rgb.g}}, {{flavor.colors.peach.rgb.b}}",
+"{{flavor.colors.yellow.rgb.r}}, {{flavor.colors.yellow.rgb.g}}, {{flavor.colors.yellow.rgb.b}}",
+"{{flavor.colors.green.rgb.r}}, {{flavor.colors.green.rgb.g}}, {{flavor.colors.green.rgb.b}}",
+"{{flavor.colors.teal.rgb.r}}, {{flavor.colors.teal.rgb.g}}, {{flavor.colors.teal.rgb.b}}",
+"{{flavor.colors.sapphire.rgb.r}}, {{flavor.colors.sapphire.rgb.g}}, {{flavor.colors.sapphire.rgb.b}}",
+"{{flavor.colors.blue.rgb.r}}, {{flavor.colors.blue.rgb.g}}, {{flavor.colors.blue.rgb.b}}",
+"{{flavor.colors.lavender.rgb.r}}, {{flavor.colors.lavender.rgb.g}}, {{flavor.colors.lavender.rgb.b}}",
+]{% if flavor.identifier != "mocha" %},{% endif %}
+}
+{%- endfor %}
