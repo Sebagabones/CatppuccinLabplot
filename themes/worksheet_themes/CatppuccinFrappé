@@ -1,11 +1,11 @@
 {
 [Theme]
 ThemeName=CatppuccinFrappé
-ThemePaletteColor1=202,158,230
-ThemePaletteColor2=166,209,137
-ThemePaletteColor3=133, 193, 220
-ThemePaletteColor4=239,159,118
-ThemePaletteColor5=229,200,144
+ThemePaletteColor1=231,130,132
+ThemePaletteColor2=239,159,118
+ThemePaletteColor3=229,200,144
+ThemePaletteColor4=166,209,137
+ThemePaletteColor5=133,193,220
 
 [Axis]
 LabelsFontColor=198,208,245

@@ -1,11 +1,11 @@
 {
 [Theme]
 ThemeName=CatppuccinMocha
-ThemePaletteColor1=203,166,247
-ThemePaletteColor2=166,227,161
-ThemePaletteColor3=116, 199, 236
-ThemePaletteColor4=250,179,135
-ThemePaletteColor5=249,226,175
+ThemePaletteColor1=243,139,168
+ThemePaletteColor2=250,179,135
+ThemePaletteColor3=249,226,175
+ThemePaletteColor4=166,227,161
+ThemePaletteColor5=116,199,236
 
 [Axis]
 LabelsFontColor=205,214,244

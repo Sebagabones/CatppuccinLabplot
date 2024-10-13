@@ -10,11 +10,11 @@ author: "Sebagabones"
 {
 [Theme]
 ThemeName=Catppuccin{{flavor.name}}
-ThemePaletteColor1={{flavor.colors.mauve.rgb.r}},{{flavor.colors.mauve.rgb.g}},{{flavor.colors.mauve.rgb.b}}
-ThemePaletteColor2={{flavor.colors.green.rgb.r}},{{flavor.colors.green.rgb.g}},{{flavor.colors.green.rgb.b}}
-ThemePaletteColor3={{flavor.colors.sapphire.rgb.r}}, {{flavor.colors.sapphire.rgb.g}}, {{flavor.colors.sapphire.rgb.b}}
-ThemePaletteColor4={{flavor.colors.peach.rgb.r}},{{flavor.colors.peach.rgb.g}},{{flavor.colors.peach.rgb.b}}
-ThemePaletteColor5={{flavor.colors.yellow.rgb.r}},{{flavor.colors.yellow.rgb.g}},{{flavor.colors.yellow.rgb.b}}
+ThemePaletteColor1={{flavor.colors.red.rgb.r}},{{flavor.colors.red.rgb.g}},{{flavor.colors.red.rgb.b}}
+ThemePaletteColor2={{flavor.colors.peach.rgb.r}},{{flavor.colors.peach.rgb.g}},{{flavor.colors.peach.rgb.b}}
+ThemePaletteColor3={{flavor.colors.yellow.rgb.r}},{{flavor.colors.yellow.rgb.g}},{{flavor.colors.yellow.rgb.b}}
+ThemePaletteColor4={{flavor.colors.green.rgb.r}},{{flavor.colors.green.rgb.g}},{{flavor.colors.green.rgb.b}}
+ThemePaletteColor5={{flavor.colors.sapphire.rgb.r}},{{flavor.colors.sapphire.rgb.g}},{{flavor.colors.sapphire.rgb.b}}
 
 [Axis]
 LabelsFontColor={{flavor.colors.text.rgb.r}},{{flavor.colors.text.rgb.g}},{{flavor.colors.text.rgb.b}}

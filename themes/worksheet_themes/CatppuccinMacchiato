@@ -1,11 +1,11 @@
 {
 [Theme]
 ThemeName=CatppuccinMacchiato
-ThemePaletteColor1=198,160,246
-ThemePaletteColor2=166,218,149
-ThemePaletteColor3=125, 196, 228
-ThemePaletteColor4=245,169,127
-ThemePaletteColor5=238,212,159
+ThemePaletteColor1=237,135,150
+ThemePaletteColor2=245,169,127
+ThemePaletteColor3=238,212,159
+ThemePaletteColor4=166,218,149
+ThemePaletteColor5=125,196,228
 
 [Axis]
 LabelsFontColor=202,211,245

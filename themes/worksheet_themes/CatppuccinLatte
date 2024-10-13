@@ -1,11 +1,11 @@
 {
 [Theme]
 ThemeName=CatppuccinLatte
-ThemePaletteColor1=136,57,239
-ThemePaletteColor2=64,160,43
-ThemePaletteColor3=32, 159, 181
-ThemePaletteColor4=254,100,11
-ThemePaletteColor5=223,142,29
+ThemePaletteColor1=210,15,57
+ThemePaletteColor2=254,100,11
+ThemePaletteColor3=223,142,29
+ThemePaletteColor4=64,160,43
+ThemePaletteColor5=32,159,181
 
 [Axis]
 LabelsFontColor=76,79,105
