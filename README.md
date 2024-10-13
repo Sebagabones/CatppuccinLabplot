@@ -37,7 +37,7 @@
 ## Usage
 
 ### Colormap Theme
-1. Download the `Catppuccin (Categorical).json` file from `\themes`
+1. Download the `Catppuccin (Categorical).json` file from `\themes\colormaps`
 2. Add this file to `/usr/share/labplot2/colormaps/` 
 3. Update the end of `ColormapCollections.json` with: 
 ``` json
@@ -47,18 +47,16 @@
 	"url" : "https://github.com/catppuccin/labplot"
 }
 ```
+4. To use this theme, select your data from a spreadsheet, and right-click, and then select the theme from the "Conditional Formatting>Heatmap" option.
+
 Note: Currently, these changes may be overwritten when LabPlot updates, however we are hoping to be able to merge these changes into LabPlot so that Catppuccin is installed by default!
-
-
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
-
-<!-- The FAQ section is optional. Remove if needed.-->
-## 🙋 FAQ
-
-- Q: **_"How can I do X?"_**\
-  A: ...
+### Worksheet Theme
+1. Download the flavor of your choice from `\themes\worksheet_themes`.
+2. Add this file to `/usr/share/labplot2/themes`
+3. Download the screenshot preview from `\assets\screenshots_for_preview` 
+3. Add this file to `/usr/share/labplot2/themes/screenshots`
+4. Once you have created a graph in LabPlot, right-click outside of the preview, and apply the theme through the theme option.
+Note: Currently, these changes may be overwritten when LabPlot updates, however we are hoping to be able to merge these changes into LabPlot so that Catppuccin is installed by default!
 
 ## 💝 Thanks to
 

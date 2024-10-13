@@ -1,32 +1,32 @@
 {
 [Theme]
-ThemeName=CatppuccinMacchiato
-ThemePaletteColor1=198,160,246
-ThemePaletteColor2=166,218,149
-ThemePaletteColor3=125, 196, 228
-ThemePaletteColor4=245,169,127
-ThemePaletteColor5=238,212,159
+ThemeName=CatppuccinLatte
+ThemePaletteColor1=136,57,239
+ThemePaletteColor2=64,160,43
+ThemePaletteColor3=32, 159, 181
+ThemePaletteColor4=254,100,11
+ThemePaletteColor5=223,142,29
 
 [Axis]
-LabelsFontColor=202,211,245
+LabelsFontColor=76,79,105
 LabelsOpacity=1
-LineColor=202,211,245
+LineColor=76,79,105
 LineOpacity=1
 LineStyle=1
 LineWidth=3.52778
-MajorGridColor=202,211,245
+MajorGridColor=76,79,105
 MajorGridOpacity=0.5
 MajorGridStyle=1
 MajorGridWidth=1.76389
-MajorTicksColor=202,211,245
+MajorTicksColor=76,79,105
 MajorTicksStyle=1
 MajorTicksOpacity=1
 MajorTicksWidth=3.52778
-MinorGridColor=184,192,224
+MinorGridColor=92,95,119
 MinorGridOpacity=0.5
 MinorGridStyle=2
 MinorGridWidth=1.76389
-MinorTicksColor=184,192,224
+MinorTicksColor=92,95,119
 MinorTicksStyle=1
 MinorTicksOpacity=1
 MinorTicksWidth=3.52778
@@ -34,20 +34,20 @@ MinorTicksWidth=3.52778
 [CartesianPlot]
 BackgroundBrushStyle=1
 BackgroundColorStyle=0
-BackgroundFirstColor=36,39,58
+BackgroundFirstColor=239,241,245
 BackgroundImageStyle=1
 BackgroundOpacity=1
-BackgroundSecondColor=110,115,141
+BackgroundSecondColor=156,160,176
 BackgroundType=0
-BorderColor=183, 189, 248
+BorderColor=114, 135, 253
 BorderCornerRadius=0
 BorderOpacity=1
 BorderStyle=1
 BorderWidth=3.52778
 
 [Label]
-FontColor=202,211,245
-BackgroundColor=36,39,58
+FontColor=76,79,105
+BackgroundColor=239,241,245
 
 [XYCurve]
 DropLineOpacity=1
@@ -60,13 +60,12 @@ FillingBrushStyle=1
 FillingColorStyle=0
 FillingOpacity=0.4
 FillingPosition=0
-FillingSecondColor=36,39,58
+FillingSecondColor=239,241,245
 FillingType=0
 LineOpacity=1
 LineStyle=1
 LineWidth=3.52778
 SymbolOpacity=1
-ValuesColor=202,211,245
+ValuesColor=76,79,105
 ValuesOpacity=1
-
 }
