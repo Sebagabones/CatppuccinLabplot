@@ -77,5 +77,4 @@ LineWidth=3.52778
 SymbolOpacity=1
 ValuesColor={{flavor.colors.text.rgb.r}},{{flavor.colors.text.rgb.g}},{{flavor.colors.text.rgb.b}}
 ValuesOpacity=1
-
 }
