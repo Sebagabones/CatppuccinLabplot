@@ -3,7 +3,7 @@ whiskers:
     version: "2.5.0"
     matrix:
         - flavor
-    filename: "themes/Catppuccin\ (Categorical).json"
+    filename: "themes/colormap/Catppuccin\ (Categorical).json"
 app: "LabPlot2"
 author: "Sebagabones"
 ---

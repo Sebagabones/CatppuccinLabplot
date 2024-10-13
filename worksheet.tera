@@ -3,7 +3,7 @@ whiskers:
     version: "2.5.0"
     matrix:
         - flavor
-    filename: "themes/Catppuccin{{flavor.name}}"
+    filename: "themes/worksheet_themes/Catppuccin{{flavor.name}}"
 app: "LabPlot2"
 author: "Sebagabones"
 ---
